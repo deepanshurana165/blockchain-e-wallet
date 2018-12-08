@@ -1,0 +1,11 @@
+.css {
+    border-radius: 20px;
+    border: 0 solid white;
+    background-color: #ECECEC;
+};
+
+.around {
+    background-color: white;
+    box-shadow: 10px 10px 30px -6px rgba(0,0,0,0.75);
+    border-radius: 5px;
+};
